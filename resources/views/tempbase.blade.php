@@ -48,166 +48,101 @@
                     <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
                 </div>
 
-                <nav class="nav-menu d-lg-block">
-                    <ul>
-                        <li class="active"><a href="#header">Home</a></li>
-                        <!-- <li><a href="#about">Profil</a></li> -->
-                        <li class="drop-down"><a href="">Profil</a>
-                            <ul>
-                                <li><a href="#">Drop Down 1</a></li>
-                                <li class="drop-down"><a href="#">Drop Down 2</a>
-                                    <ul>
-                                        <li><a href="#">Deep Drop Down 1</a></li>
-                                        <li><a href="#">Deep Drop Down 2</a></li>
-                                        <li><a href="#">Deep Drop Down 3</a></li>
-                                        <li><a href="#">Deep Drop Down 4</a></li>
-                                        <li><a href="#">Deep Drop Down 5</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#">Drop Down 3</a></li>
-                                <li><a href="#">Drop Down 4</a></li>
-                                <li><a href="#">Drop Down 5</a></li>
-                            </ul>
-                        </li>
-                        <li class="drop-down"><a href="">Paket Keahlian</a>
-                            <ul>
-                                <li><a href="#">Drop Down 1</a></li>
-                                <li class="drop-down"><a href="#">Drop Down 2</a>
-                                    <ul>
-                                        <li><a href="#">Deep Drop Down 1</a></li>
-                                        <li><a href="#">Deep Drop Down 2</a></li>
-                                        <li><a href="#">Deep Drop Down 3</a></li>
-                                        <li><a href="#">Deep Drop Down 4</a></li>
-                                        <li><a href="#">Deep Drop Down 5</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#">Drop Down 3</a></li>
-                                <li><a href="#">Drop Down 4</a></li>
-                                <li><a href="#">Drop Down 5</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#services">Informasi</a></li>
-                        <li><a href="#portfolio">Kurikulum</a></li>
-                        <li><a href="#team">Humas</a></li>
-                        <li class="drop-down"><a href="">Kesiswaan</a>
-                            <ul>
-                                <li><a href="#">Drop Down 1</a></li>
-                                <li class="drop-down"><a href="#">Drop Down 2</a>
-                                    <ul>
-                                        <li><a href="#">Deep Drop Down 1</a></li>
-                                        <li><a href="#">Deep Drop Down 2</a></li>
-                                        <li><a href="#">Deep Drop Down 3</a></li>
-                                        <li><a href="#">Deep Drop Down 4</a></li>
-                                        <li><a href="#">Deep Drop Down 5</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#">Drop Down 3</a></li>
-                                <li><a href="#">Drop Down 4</a></li>
-                                <li><a href="#">Drop Down 5</a></li>
-                            </ul>
-                        </li>
-                        <li class="drop-down"><a href="">Sarpras</a>
-                            <ul>
-                                <li><a href="#">Drop Down 1</a></li>
-                                <li class="drop-down"><a href="#">Drop Down 2</a>
-                                    <ul>
-                                        <li><a href="#">Deep Drop Down 1</a></li>
-                                        <li><a href="#">Deep Drop Down 2</a></li>
-                                        <li><a href="#">Deep Drop Down 3</a></li>
-                                        <li><a href="#">Deep Drop Down 4</a></li>
-                                        <li><a href="#">Deep Drop Down 5</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#">Drop Down 3</a></li>
-                                <li><a href="#">Drop Down 4</a></li>
-                                <li><a href="#">Drop Down 5</a></li>
-                            </ul>
-                        </li>
-                        <li class="drop-down"><a href="">BKK</a>
-                            <ul>
-                                <li><a href="#">Drop Down 1</a></li>
-                                <li class="drop-down"><a href="#">Drop Down 2</a>
-                                    <ul>
-                                        <li><a href="#">Deep Drop Down 1</a></li>
-                                        <li><a href="#">Deep Drop Down 2</a></li>
-                                        <li><a href="#">Deep Drop Down 3</a></li>
-                                        <li><a href="#">Deep Drop Down 4</a></li>
-                                        <li><a href="#">Deep Drop Down 5</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#">Drop Down 3</a></li>
-                                <li><a href="#">Drop Down 4</a></li>
-                                <li><a href="#">Drop Down 5</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#contact">PPDB</a></li>
-                        <li class="drop-down"><a href="">Perpustakaan</a>
-                            <ul>
-                                <li><a href="#">Drop Down 1</a></li>
-                                <li class="drop-down"><a href="#">Drop Down 2</a>
-                                    <ul>
-                                        <li><a href="#">Deep Drop Down 1</a></li>
-                                        <li><a href="#">Deep Drop Down 2</a></li>
-                                        <li><a href="#">Deep Drop Down 3</a></li>
-                                        <li><a href="#">Deep Drop Down 4</a></li>
-                                        <li><a href="#">Deep Drop Down 5</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#">Drop Down 3</a></li>
-                                <li><a href="#">Drop Down 4</a></li>
-                                <li><a href="#">Drop Down 5</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#contact">Kontak</a></li>
-                        <!-- <li class="drop-down"><a href="">Drop Down</a>
-                            <ul>
-                                <li><a href="#">Drop Down 1</a></li>
-                                <li class="drop-down"><a href="#">Drop Down 2</a>
-                                    <ul>
-                                        <li><a href="#">Deep Drop Down 1</a></li>
-                                        <li><a href="#">Deep Drop Down 2</a></li>
-                                        <li><a href="#">Deep Drop Down 3</a></li>
-                                        <li><a href="#">Deep Drop Down 4</a></li>
-                                        <li><a href="#">Deep Drop Down 5</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#">Drop Down 3</a></li>
-                                <li><a href="#">Drop Down 4</a></li>
-                                <li><a href="#">Drop Down 5</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#contact">Contact</a></li> -->
+                <nav class="nav-menu d-none d-lg-block">
+          <ul>
+            <li class="active"><a href="/home">Home</a></li>
+            <li class= "drop-down"><a href="/profil">Profil</a>
+                <ul>
+                    <li><a href="{{ url('/visiMisiTujuan') }}">Visi, Misi dan Tujuan</a></li>
+                    <li><a href="/identitasSekolah">Identitas Sekolah</a></li>
+                    <li><a href="/strukturOrg">Struktur Organisasi</a></li>
+                    <li><a href="/jmlhSiswa">Jumlah Peserta Didik</a></li>
+                </ul>
+            </li>
+            <li class= "drop-down"><a href="/pktKeahlian">Paket Keahlian</a>
+                <ul>
+                    <li><a href="/agbsnsTani">Agribisnis Pengolahan Hasil Pertanian</a></li>
+                    <li><a href="/agsbnsIkan">Agribisnis Pengolahan Hasil Perikanan</a></li>
+                </ul>
+            </li>
+            <li class= "drop-down"><a href="/informasi">Informasi</a>
+                <ul>
+                    <li><a href="/berita">Berita</a></li>
+                    <li><a href="/inform">Informasi</a></li>
+                </ul>
+            </li>
+            <li class= "drop-down"><a href="/Kurikulum">Kurikulum</a>
+                <ul>
+                    <li><a href="/tentangKrklm">Tentang Kurikulum</a></li>
+                    <li><a href="/organisasi">Organisasi</a></li>
+                    <li><a href="/klndrPmbljaran">Kalender Pembelajaran</a></li>
+                    <li><a href="/pmbljaran">Pembelajaran</a></li>
+                    <li><a href="/pnlaian">Penilaian</a></li>
+                    <li><a href="/srtfkasi">Sertifikasi</a></li>
+                </ul>
+            </li>
+            <li class= "drop-down"><a href="/humas">Humas</a>
+                <ul>
+                    <li><a href="/tntgHum">Tentang (Humas)</a></li>
+                    <li><a href="/orgnssHum">Organisasi (Humas)</a></li>
+                    <li><a href="/prgrmkrjHum">Program Kerja (Humas)</a></li>
+                    <li><a href="/pkl">PKL</a></li>
+                </ul>
+            </li>
+            <li class= "drop-down"><a href="/kesiswaan">Kesiswaan</a>
+                <ul>
+                    <li><a href="/tntgKSis">Tentang (Kesiswaan)</a></li>
+                    <li><a href="/orgnssSis">Organisasi (Kesiswaan)</a></li>
+                    <li><a href="/prgrmkrjSis">Program Kerja (Kesiswaan)</a></li>
+                    <li><a href="/ekskul">Ektrstrakurikuler</a></li>
+                    <li><a href="/kegOsis">Kegiatan OSIS</a></li>
+                    <li><a href="/kegPram">Kegiatan Pramuka</a></li>
+                    <li><a href="/dokKeg">Dokumen Kegiatan</a></li>
+                </ul>
+            </li>
+            <li class= "drop-down"><a href="/sarpras">Sarana Prasarana</a>
+                <ul>
+                    <li><a href="/tntgSarPras">Tentang (SarPras)</a></li>
+                    <li><a href="/orgnssSarPras">Organisasi (SarPras)</a></li>
+                    <li><a href="/prgrmkrjSarPras">Program Kerja (SarPras)</a></li>
+                    <li><a href="/fasSek">Fasilitas Sekolah</a></li>
+                </ul>
+            </li>
+            <li class= "drop-down"><a href="/bkk">BKK</a>
+                <ul>
+                    <li><a href="/tntgBKK">Tentang (BKK)</a></li>
+                    <li><a href="/orgnssBKK">Organisasi (BKK)</a></li>
+                    <li><a href="/inputDataAlumni">Input Data Alumni</a></li>
+                </ul>
+            </li>
+            <li><a href="/ppdb">PPDB</a>
+            <li class= "drop-down"><a href="/perpus">Perpustakaan</a>
+                <ul>
+                    <li><a href="/tntgPerpus">Tentang (Perpustakaan)</a></li>
+                    <li><a href="/orgnssPerpus">Organisasi (Perpustakaan)</a></li>
+                </ul>
+            </li>
+            <!-- <li class="drop-down"><a href="">Drop Down</a>
+              <ul>
+                <li><a href="#">Drop Down 1</a></li>
+                <li class="drop-down"><a href="#">Drop Down 2</a>
+                  <ul>
+                    <li><a href="#">Deep Drop Down 1</a></li>
+                    <li><a href="#">Deep Drop Down 2</a></li>
+                    <li><a href="#">Deep Drop Down 3</a></li>
+                    <li><a href="#">Deep Drop Down 4</a></li>
+                    <li><a href="#">Deep Drop Down 5</a></li>
+                  </ul>
+                </li>
+                <li><a href="#">Drop Down 3</a></li>
+                <li><a href="#">Drop Down 4</a></li>
+                <li><a href="#">Drop Down 5</a></li>
+              </ul>
+            </li> -->
+            <li><a href="/hubKami">Hubungi Kami</a></li>
 
-                        <!-- <li class="get-started"><a href="#about">Get Started</a></li> -->
-                        <!-- </ul>
-
-                    <ul> -->
-                        <!-- <li class="active"><a href="#header">Home</a></li> -->
-                        <li><a href="#about">About</a></li>
-                        <li><a href="#services">Services</a></li>
-                        <li><a href="#portfolio">Portfolio</a></li>
-                        <li><a href="#team">Team</a></li>
-                        <li class="drop-down"><a href="">Drop Down</a>
-                            <ul>
-                                <li><a href="#">Drop Down 1</a></li>
-                                <li class="drop-down"><a href="#">Drop Down 2</a>
-                                    <ul>
-                                        <li><a href="#">Deep Drop Down 1</a></li>
-                                        <li><a href="#">Deep Drop Down 2</a></li>
-                                        <li><a href="#">Deep Drop Down 3</a></li>
-                                        <li><a href="#">Deep Drop Down 4</a></li>
-                                        <li><a href="#">Deep Drop Down 5</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#">Drop Down 3</a></li>
-                                <li><a href="#">Drop Down 4</a></li>
-                                <li><a href="#">Drop Down 5</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#contact">Contact</a></li>
-
-                        <!-- <li class="get-started"><a href="#about">Get Started</a></li> -->
-                    </ul>
+            <!-- <li class="get-started"><a href="#about">Get Started</a></li> -->
+          </ul>
 
                 </nav><!-- .nav-menu -->
             </div><!-- End Header Container -->

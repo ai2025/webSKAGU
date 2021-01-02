@@ -3,7 +3,8 @@
 @section('content')
 <!-- ======= Hero Section ======= -->
 <section id="hero" class="d-flex align-items-center">
-    <div class="container text-center position-relative" data-aos="fade-in" data-aos-delay="200">
+    <div class="container text-center position-relative" data-aos="fade-in" data-aos-delay="200" style="
+    height: 200px;">
         <h1>Your New Online Presence with Bethany</h1>
         <h2>We are team of talanted designers making websites with Bootstrap</h2>
         <a href="#about" class="btn-get-started scrollto">Get Started</a>
@@ -52,11 +53,12 @@
         <div class="container">
 
             <div class="row content">
-                <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
+                <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100" style="padding-top: 25px;">
                     <h2>Eum ipsam laborum deleniti velitena</h2>
                     <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assum perenda sruen jonee trave</h3>
                 </div>
-                <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left" data-aos-delay="200">
+                <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left" data-aos-delay="200" 
+                style="padding-top: 25px;">
                     <p>
                         Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
                         velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
@@ -158,7 +160,7 @@
     </section><!-- End Why Us Section -->
 
     <!-- ======= Cta Section ======= -->
-    <section id="cta" class="cta">
+    <!-- <section id="cta" class="cta">
         <div class="container">
 
             <div class="text-center" data-aos="zoom-in">
@@ -168,7 +170,7 @@
             </div>
 
         </div>
-    </section><!-- End Cta Section -->
+    </section>End Cta Section -->
 
     <!-- ======= Services Section ======= -->
     <section id="services" class="services section-bg">

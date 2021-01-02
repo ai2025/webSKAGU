@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Bethany Bootstrap Template - Index</title>
+    <title>SMK Negeri 1 Grujugan</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -39,21 +39,23 @@
 <body>
 
     <!-- ======= Header ======= -->
-    <header id="header" class="fixed-top d-flex align-items-center">
-        <div class="container">
-            <div class="header-container d-flex align-items-center">
+    <header id="header" class="fixed-top d-flex align-items-center" style="width: 2000px;">
+        <div class="container" style="margin-left: 0px; padding-left: 0px;">
+            <div class="header-container d-flex align-items-center" style="width: 1369px; height :65px">
                 <div class="logo">
                     <h1 class="text-light"><a href="index.html"><span>SKAGU</span></a></h1>
                     <!-- Uncomment below if you prefer to use an image logo -->
                     <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
                 </div>
 
-                <nav class="nav-menu d-none d-lg-block">
+                <nav class="nav-menu d-none d-lg-block" style="height: 90px; border-right-width: 65px;
+                padding-right: 5; padding-right: 5px;">
           <ul>
-            <li class="active"><a href="/home">Home</a></li>
+            <li> <a href="/">Home</a></li>
             <li class= "drop-down"><a href="/profil">Profil</a>
                 <ul>
-                    <li><a href="{{ url('/visiMisiTujuan') }}">Visi, Misi dan Tujuan</a></li>
+                    <li>
+                        <a class="nav-link" href="{{ url('/visiMisiTujuan') }}">Visi, Misi dan Tujuan</a></li>
                     <li><a href="/identitasSekolah">Identitas Sekolah</a></li>
                     <li><a href="/strukturOrg">Struktur Organisasi</a></li>
                     <li><a href="/jmlhSiswa">Jumlah Peserta Didik</a></li>
@@ -65,19 +67,21 @@
                     <li><a href="/agsbnsIkan">Agribisnis Pengolahan Hasil Perikanan</a></li>
                 </ul>
             </li>
-            <li class= "drop-down"><a href="/informasi">Informasi</a>
+            <li class= "drop-down"><a href="/bkk">BKK</a>
                 <ul>
-                    <li><a href="/berita">Berita</a></li>
-                    <li><a href="/inform">Informasi</a></li>
+                    <li><a href="/tntgBKK">Tentang (BKK)</a></li>
+                    <li><a href="/orgnssBKK">Organisasi (BKK)</a></li>
+                    <li><a href="/inputDataAlumni">Input Data Alumni</a></li>
                 </ul>
             </li>
+            
             <li class= "drop-down"><a href="/Kurikulum">Kurikulum</a>
                 <ul>
-                    <li><a href="/tentangKrklm">Tentang Kurikulum</a></li>
+                    <li><a href="/tntgKrklm">Tentang Kurikulum</a></li>
                     <li><a href="/organisasi">Organisasi</a></li>
                     <li><a href="/klndrPmbljaran">Kalender Pembelajaran</a></li>
                     <li><a href="/pmbljaran">Pembelajaran</a></li>
-                    <li><a href="/pnlaian">Penilaian</a></li>
+                    <li><a href="/penilaian">Penilaian</a></li>
                     <li><a href="/srtfkasi">Sertifikasi</a></li>
                 </ul>
             </li>
@@ -91,7 +95,7 @@
             </li>
             <li class= "drop-down"><a href="/kesiswaan">Kesiswaan</a>
                 <ul>
-                    <li><a href="/tntgKSis">Tentang (Kesiswaan)</a></li>
+                    <li><a href="/tntgSis">Tentang (Kesiswaan)</a></li>
                     <li><a href="/orgnssSis">Organisasi (Kesiswaan)</a></li>
                     <li><a href="/prgrmkrjSis">Program Kerja (Kesiswaan)</a></li>
                     <li><a href="/ekskul">Ektrstrakurikuler</a></li>
@@ -102,44 +106,29 @@
             </li>
             <li class= "drop-down"><a href="/sarpras">Sarana Prasarana</a>
                 <ul>
-                    <li><a href="/tntgSarPras">Tentang (SarPras)</a></li>
-                    <li><a href="/orgnssSarPras">Organisasi (SarPras)</a></li>
-                    <li><a href="/prgrmkrjSarPras">Program Kerja (SarPras)</a></li>
+                    <li><a href="/tntgSarpras">Tentang (SarPras)</a></li>
+                    <li><a href="/orgnssSarpras">Organisasi (SarPras)</a></li>
+                    <li><a href="/prgrmkrjSarpras">Program Kerja (SarPras)</a></li>
                     <li><a href="/fasSek">Fasilitas Sekolah</a></li>
                 </ul>
             </li>
-            <li class= "drop-down"><a href="/bkk">BKK</a>
-                <ul>
-                    <li><a href="/tntgBKK">Tentang (BKK)</a></li>
-                    <li><a href="/orgnssBKK">Organisasi (BKK)</a></li>
-                    <li><a href="/inputDataAlumni">Input Data Alumni</a></li>
-                </ul>
-            </li>
-            <li><a href="/ppdb">PPDB</a>
             <li class= "drop-down"><a href="/perpus">Perpustakaan</a>
                 <ul>
                     <li><a href="/tntgPerpus">Tentang (Perpustakaan)</a></li>
                     <li><a href="/orgnssPerpus">Organisasi (Perpustakaan)</a></li>
                 </ul>
             </li>
-            <!-- <li class="drop-down"><a href="">Drop Down</a>
-              <ul>
-                <li><a href="#">Drop Down 1</a></li>
-                <li class="drop-down"><a href="#">Drop Down 2</a>
-                  <ul>
-                    <li><a href="#">Deep Drop Down 1</a></li>
-                    <li><a href="#">Deep Drop Down 2</a></li>
-                    <li><a href="#">Deep Drop Down 3</a></li>
-                    <li><a href="#">Deep Drop Down 4</a></li>
-                    <li><a href="#">Deep Drop Down 5</a></li>
-                  </ul>
-                </li>
-                <li><a href="#">Drop Down 3</a></li>
-                <li><a href="#">Drop Down 4</a></li>
-                <li><a href="#">Drop Down 5</a></li>
-              </ul>
-            </li> -->
-            <li><a href="/hubKami">Hubungi Kami</a></li>
+            <li class= "drop-down"><a href="/informasi">Informasi</a>
+                <ul>
+                    <li><a href="/berita">Berita</a></li>
+                    <li><a href="/inform">Informasi</a></li>
+                </ul>
+            </li>
+            
+            <li><a href="/ppdb">PPDB</a>
+            
+            
+            <li><a href="/kontak">Kontak</a></li>
 
             <!-- <li class="get-started"><a href="#about">Get Started</a></li> -->
           </ul>

@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  top: 20px;
+  top: 0px;
 }
 
 #header .header-container {
@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #header .logo {
   overflow: hidden;
-  padding: 16px 30px 12px 30px;
+  padding: 16px 40px 12px 16px;
   background: #009970;
 }
 
@@ -143,7 +143,7 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   position: relative;
   color: #36343a;
-  padding: 10px 15px;
+  padding: 35px 10.5px;
   transition: 0.3s;
   font-size: 13px;
   font-weight: 500;

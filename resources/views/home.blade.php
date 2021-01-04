@@ -5,16 +5,16 @@
 <section id="hero" class="d-flex align-items-center">
     <div class="container text-center position-relative" data-aos="fade-in" data-aos-delay="200" style="
     height: 200px;">
-        <h1>Your New Online Presence with Bethany</h1>
-        <h2>We are team of talanted designers making websites with Bootstrap</h2>
-        <a href="#about" class="btn-get-started scrollto">Get Started</a>
+        <h1>SMK NEGERI 1 GRUJUGAN</h1>
+        <h2>(JARGONNYA BIAR MANTAP)</h2>
+        <a href="#" class="btn-get-started scrollto">Get Started</a>
     </div>
 </section><!-- End Hero -->
 
 <main id="main">
 
     <!-- ======= Clients Section ======= -->
-    <section id="clients" class="clients">
+    <!-- <section id="clients" class="clients">
         <div class="container">
 
             <div class="row">
@@ -46,24 +46,24 @@
             </div>
 
         </div>
-    </section><!-- End Clients Section -->
+    </section>End Clients Section -->
 
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-        <div class="container">
-
-            <div class="row content">
-                <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100" style="padding-top: 25px;">
-                    <h2>Eum ipsam laborum deleniti velitena</h2>
-                    <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assum perenda sruen jonee trave</h3>
-                </div>
-                <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left" data-aos-delay="200" 
-                style="padding-top: 25px;">
-                    <p>
-                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                        culpa qui officia deserunt mollit anim id est laborum
-                    </p>
+    <!-- ======= Visi Misi Tujuan Section ======= -->
+    <!-- <section id="" class="visiMisiTujuan">
+    <div class="container">
+            <div class="row">
+                <div class="col-lg-4" data-aos="fade-right">
+                    <div class="section-title">
+                        <h2 style="top: 12px; width: 500px;">Paket Keahlian</h2>
+                    </div>
+                    <h2 style="width: 400px;">Agribisnis Pengolahan Hasil Pertanian</h2>
+ <h2 style="padding-top: 25px;">Misi</h2>
+                    <p>"isi Misi "</p> -->
+                <!-- </div>
+                <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left" data-aos-delay="200"; style="padding-left: 130px;">
+                <h2 style="width: 400px; padding-top: 105px;">Agribisnis Pengolahan Hasil Perikanan</h2> --> 
+                    <!-- <h3 style="padding-top: 100px;">
+                        Tujuan : </h3>
                     <ul>
                         <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequa</li>
                         <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
@@ -72,15 +72,15 @@
                     <p class="font-italic">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                         magna aliqua.
-                    </p>
-                </div>
+                    </p> -->
+                <!-- </div>
             </div>
 
         </div>
-    </section><!-- End About Section -->
+    </section> -->
 
     <!-- ======= Counts Section ======= -->
-    <section id="counts" class="counts">
+    <!-- <section id="counts" class="counts">
         <div class="container">
 
             <div class="row counters">
@@ -108,10 +108,10 @@
             </div>
 
         </div>
-    </section><!-- End Counts Section -->
+    </section>End Counts Section -->
 
     <!-- ======= Why Us Section ======= -->
-    <section id="why-us" class="why-us">
+    <!-- <section id="why-us" class="why-us">
         <div class="container">
 
             <div class="row">
@@ -152,14 +152,15 @@
                                 </div>
                             </div>
                         </div>
-                    </div><!-- End .content-->
+                    </div> 
                 </div>
             </div>
 
         </div>
-    </section><!-- End Why Us Section -->
+    </section> -->
+    <!-- End Why Us Section  -->
 
-    <!-- ======= Cta Section ======= -->
+     <!-- ======= Cta Section ======= --> 
     <!-- <section id="cta" class="cta">
         <div class="container">
 
@@ -173,7 +174,7 @@
     </section>End Cta Section -->
 
     <!-- ======= Services Section ======= -->
-    <section id="services" class="services section-bg">
+    <!-- <section id="services" class="services section-bg">
         <div class="container">
 
             <div class="row">
@@ -222,10 +223,10 @@
             </div>
 
         </div>
-    </section><!-- End Services Section -->
+    </section>End Services Section -->
 
     <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
+    <!-- <section id="portfolio" class="portfolio">
         <div class="container">
 
             <div class="section-title" data-aos="fade-left">
@@ -375,10 +376,10 @@
             </div>
 
         </div>
-    </section><!-- End Portfolio Section -->
+    </section>End Portfolio Section -->
 
     <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials section-bg">
+    <!-- <section id="testimonials" class="testimonials section-bg">
         <div class="container">
 
             <div class="row">
@@ -451,16 +452,16 @@
             </div>
 
         </div>
-    </section><!-- End Testimonials Section -->
+    </section>End Testimonials Section -->
 
     <!-- ======= Team Section ======= -->
-    <section id="team" class="team">
+    <section id="jurusan" class="jurusan">
         <div class="container">
 
             <div class="row">
                 <div class="col-lg-4">
                     <div class="section-title" data-aos="fade-right">
-                        <h2>Team</h2>
+                        <h2>Paket Keahlian</h2>
                         <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem.</p>
                     </div>
                 </div>
@@ -471,14 +472,11 @@
                             <div class="member" data-aos="zoom-in" data-aos-delay="100">
                                 <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
                                 <div class="member-info">
-                                    <h4>Walter White</h4>
+                                    <h4>Agribisnis Pengolahan Hasil Pertanian</h4>
                                     <span>Chief Executive Officer</span>
                                     <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
                                     <div class="social">
-                                        <a href=""><i class="ri-twitter-fill"></i></a>
-                                        <a href=""><i class="ri-facebook-fill"></i></a>
-                                        <a href=""><i class="ri-instagram-fill"></i></a>
-                                        <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                    <a href="agbsnsTani" class="btn btn-primary"> Pertanian</a>
                                     </div>
                                 </div>
                             </div>
@@ -488,20 +486,17 @@
                             <div class="member" data-aos="zoom-in" data-aos-delay="200">
                                 <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
                                 <div class="member-info">
-                                    <h4>Sarah Jhonson</h4>
+                                    <h4>Agribisnis Pengolahan Hasil Perikanan</h4>
                                     <span>Product Manager</span>
                                     <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
                                     <div class="social">
-                                        <a href=""><i class="ri-twitter-fill"></i></a>
-                                        <a href=""><i class="ri-facebook-fill"></i></a>
-                                        <a href=""><i class="ri-instagram-fill"></i></a>
-                                        <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                    <a href="agsbnsIkan" class="btn btn-primary"> Perikanan</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="col-lg-6 mt-4">
+                        <!-- <div class="col-lg-6 mt-4">
                             <div class="member" data-aos="zoom-in" data-aos-delay="300">
                                 <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
                                 <div class="member-info">
@@ -533,7 +528,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                     </div>
 
@@ -541,10 +536,11 @@
             </div>
 
         </div>
-    </section><!-- End Team Section -->
+    </section>
+    <!-- End Team Section -->
 
     <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact">
+    <!-- <section id="contact" class="contact">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4" data-aos="fade-right">
@@ -608,7 +604,7 @@
             </div>
 
         </div>
-    </section><!-- End Contact Section -->
+    </section>End Contact Section -->
 
 </main><!-- End #main -->
 @endsection

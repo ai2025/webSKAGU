@@ -3,7 +3,7 @@
 @section('content')
 
 <!-- ======= Team Section ======= -->
-<section id="team" class="team">
+<section id="strukturOrg" class="strukturOrg">
         <div class="container">
 
             <div class="row">
@@ -11,7 +11,7 @@
                     <div class="section-title" data-aos="fade-right" style="
     padding-top: 30px;
 ">
-                        <h2>Team</h2>
+                        <h2 style="padding-top: 70px;">Struktur Organisasi</h2>
                         <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem.</p>
                     </div>
                 </div>

@@ -3,31 +3,38 @@
 @section('content')
 
     <!-- ======= Tentang BKK Section ======= -->
-    <section id="visiMisiTujuan" class="visiMisiTujuan">
+    <section id="tntgKrklm" class="tntgKrklm">
         <div class="container">
-
-            <div class="row content">
-                <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100" style="padding-top: 20px;">
-                    <h2>Eum ipsam laborum deleniti velitena</h2>
-                    <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assum perenda sruen jonee trave</h3>
-                </div>
-                <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left" data-aos-delay="200" style="padding-top: 30px;">
-                    <p>
-                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                        culpa qui officia deserunt mollit anim id est laborum
-                    </p>
-                    <ul>
-                        <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequa</li>
-                        <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-                        <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in</li>
-                    </ul>
-                    <p class="font-italic">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua.
-                    </p>
+            <div class="row">
+                <div class="col-lg-4" data-aos="fade-right">
+                    <div class="section-title" style="padding-top: 90px;">
+                        <h2 style="top: 12px;">Tentang Kurikulum</h2>
+                    </div>
+                    <div class="entry-content-page">
+                            <div class="table-responsive" style="width: 1500px;">
+                                <table style="width:70%; " class="easy-table easy-table-default" border="0">
+                                    <thead>
+                                        <tr>
+                                            <th>No.</th>
+                                            <th>Nama</th>
+                                            <th>Jabatan</th>
+                                            <th>Tugas</th>
+                                            <!-- <th width="10.1%">Action</th> -->
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1.</td>
+                                            <td>Lalala</td>
+                                            <td>lalala</td>
+                                            <td>lalala</td>
+                                            <!-- <th width="10.1%">Action</th> -->
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
                 </div>
             </div>
-
         </div>
     </section><!-- End tentang BKK Section -->

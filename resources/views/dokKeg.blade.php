@@ -1,12 +1,12 @@
 @extends('tempbase')
 
 @section('content')
-<section id="portfolio" class="portfolio">
+<section id="dokKeg" class="dokKeg">
         <div class="container">
 
             <div class="section-title" data-aos="fade-left">
-                <h2 style="top: 15px;">Portfolio</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <h2 style="top: 90px;">Dokumentasi Kegiatan</h2>
+                <p style="padding-top: 100px;">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
             </div>
 
             <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -151,4 +151,4 @@
             </div>
 
         </div>
-    </section><!-- End Portfolio Section -->
+    </section><!-- End Dokumentasi Kegiatan Section -->

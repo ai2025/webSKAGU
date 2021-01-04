@@ -39,9 +39,9 @@
 <body>
 
     <!-- ======= Header ======= -->
-    <header id="header" class="fixed-top d-flex align-items-center" style="width: 2000px;">
-        <div class="container" style="margin-left: 0px; padding-left: 0px;">
-            <div class="header-container d-flex align-items-center" style="width: 1369px; height :65px">
+    <header id="header" class="fixed-top d-flex align-items-center">
+        <div class="container">
+            <div class="header-container d-flex align-items-center" style="margin-top: 20px;">
                 <div class="logo">
                     <h1 class="text-light"><a href="index.html"><span>SKAGU</span></a></h1>
                     <!-- Uncomment below if you prefer to use an image logo -->
@@ -52,7 +52,7 @@
                 padding-right: 5; padding-right: 5px;">
           <ul>
             <li> <a href="/">Home</a></li>
-            <li class= "drop-down"><a href="/profil">Profil</a>
+            <li class= "drop-down"><a href="#">Profil</a>
                 <ul>
                     <li>
                         <a class="nav-link" href="{{ url('/visiMisiTujuan') }}">Visi, Misi dan Tujuan</a></li>
@@ -61,13 +61,13 @@
                     <li><a href="/jmlhSiswa">Jumlah Peserta Didik</a></li>
                 </ul>
             </li>
-            <li class= "drop-down"><a href="/pktKeahlian">Paket Keahlian</a>
+            <li class= "drop-down"><a href="#">Paket Keahlian</a>
                 <ul>
                     <li><a href="/agbsnsTani">Agribisnis Pengolahan Hasil Pertanian</a></li>
                     <li><a href="/agsbnsIkan">Agribisnis Pengolahan Hasil Perikanan</a></li>
                 </ul>
             </li>
-            <li class= "drop-down"><a href="/bkk">BKK</a>
+            <li class= "drop-down"><a href="#">BKK</a>
                 <ul>
                     <li><a href="/tntgBKK">Tentang (BKK)</a></li>
                     <li><a href="/orgnssBKK">Organisasi (BKK)</a></li>
@@ -75,17 +75,17 @@
                 </ul>
             </li>
             
-            <li class= "drop-down"><a href="/Kurikulum">Kurikulum</a>
+            <li class= "drop-down"><a href="#">Kurikulum</a>
                 <ul>
                     <li><a href="/tntgKrklm">Tentang Kurikulum</a></li>
-                    <li><a href="/organisasi">Organisasi</a></li>
+                    <li><a href="/organisasi">Organisasi Kurikulum</a></li>
                     <li><a href="/klndrPmbljaran">Kalender Pembelajaran</a></li>
                     <li><a href="/pmbljaran">Pembelajaran</a></li>
                     <li><a href="/penilaian">Penilaian</a></li>
                     <li><a href="/srtfkasi">Sertifikasi</a></li>
                 </ul>
             </li>
-            <li class= "drop-down"><a href="/humas">Humas</a>
+            <li class= "drop-down"><a href="#">Humas</a>
                 <ul>
                     <li><a href="/tntgHum">Tentang (Humas)</a></li>
                     <li><a href="/orgnssHum">Organisasi (Humas)</a></li>
@@ -93,18 +93,18 @@
                     <li><a href="/pkl">PKL</a></li>
                 </ul>
             </li>
-            <li class= "drop-down"><a href="/kesiswaan">Kesiswaan</a>
+            <li class= "drop-down"><a href="#">Kesiswaan</a>
                 <ul>
                     <li><a href="/tntgSis">Tentang (Kesiswaan)</a></li>
                     <li><a href="/orgnssSis">Organisasi (Kesiswaan)</a></li>
                     <li><a href="/prgrmkrjSis">Program Kerja (Kesiswaan)</a></li>
-                    <li><a href="/ekskul">Ektrstrakurikuler</a></li>
+                    <li><a href="/ekskul">Ekstrakurikuler</a></li>
                     <li><a href="/kegOsis">Kegiatan OSIS</a></li>
                     <li><a href="/kegPram">Kegiatan Pramuka</a></li>
                     <li><a href="/dokKeg">Dokumen Kegiatan</a></li>
                 </ul>
             </li>
-            <li class= "drop-down"><a href="/sarpras">Sarana Prasarana</a>
+            <li class= "drop-down"><a href="#">Sarana Prasarana</a>
                 <ul>
                     <li><a href="/tntgSarpras">Tentang (SarPras)</a></li>
                     <li><a href="/orgnssSarpras">Organisasi (SarPras)</a></li>
@@ -112,13 +112,13 @@
                     <li><a href="/fasSek">Fasilitas Sekolah</a></li>
                 </ul>
             </li>
-            <li class= "drop-down"><a href="/perpus">Perpustakaan</a>
+            <li class= "drop-down"><a href="#">Perpustakaan</a>
                 <ul>
                     <li><a href="/tntgPerpus">Tentang (Perpustakaan)</a></li>
                     <li><a href="/orgnssPerpus">Organisasi (Perpustakaan)</a></li>
                 </ul>
             </li>
-            <li class= "drop-down"><a href="/informasi">Informasi</a>
+            <li class= "drop-down"><a href="#">Informasi</a>
                 <ul>
                     <li><a href="/berita">Berita</a></li>
                     <li><a href="/inform">Informasi</a></li>
@@ -127,14 +127,14 @@
             
             <li><a href="/ppdb">PPDB</a>
             
-            
             <li><a href="/kontak">Kontak</a></li>
 
             <!-- <li class="get-started"><a href="#about">Get Started</a></li> -->
           </ul>
-
                 </nav><!-- .nav-menu -->
+                
             </div><!-- End Header Container -->
+            <hr style="margin-top: 0px; margin-bottom: 0px;">
         </div>
     </header><!-- End Header -->
 
@@ -148,12 +148,12 @@
                 <div class="row">
 
                     <div class="col-lg-3 col-md-6 footer-contact">
-                        <h3>Bethany</h3>
+                        <h3>SMK NEGERI 1 GRUJUGAN</h3>
                         <p>
-                            A108 Adam Street <br>
-                            New York, NY 535022<br>
-                            United States <br><br>
-                            <strong>Phone:</strong> +1 5589 55488 55<br>
+                        Congkrong Barat, Taman, Grujugan <br>
+                        Kabupaten Bondowoso<br>
+                        Jawa Timur 68261, Indonesia <br><br>
+                            <strong>Phone:</strong> (0332) 431110<br>
                             <strong>Email:</strong> info@example.com<br>
                         </p>
                     </div>
@@ -161,15 +161,15 @@
                     <div class="col-lg-2 col-md-6 footer-links">
                         <h4>Useful Links</h4>
                         <ul>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/">Home</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Profil</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Paket Keahlian</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Kontak</a></li>
+                            <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li> -->
                         </ul>
                     </div>
 
-                    <div class="col-lg-3 col-md-6 footer-links">
+                    <!-- <div class="col-lg-3 col-md-6 footer-links">
                         <h4>Our Services</h4>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
@@ -186,7 +186,7 @@
                         <form action="" method="post">
                             <input type="email" name="email"><input type="submit" value="Subscribe">
                         </form>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>
@@ -196,7 +196,7 @@
 
             <div class="mr-md-auto text-center text-md-left">
                 <div class="copyright">
-                    &copy; Copyright <strong><span>Bethany</span></strong>. All Rights Reserved
+                    &copy; Copyright <strong><span>SMK NEGERI 1 GRUJUGAN</span></strong>. All Rights Reserved
                 </div>
                 <div class="credits">
                     <!-- All the links in the footer should remain intact. -->

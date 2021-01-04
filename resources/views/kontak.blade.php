@@ -2,12 +2,12 @@
 
 @section('content')
 <!-- ======= Contact Section ======= -->
-<section id="contact" class="contact">
+<section id="kontak" class="kontak">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4" data-aos="fade-right">
                     <div class="section-title">
-                        <h2 style="top: 12px;">Contact</h2>
+                        <h2 style="top: 90px;">Kontak</h2>
                         <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
                     </div>
                 </div>
@@ -17,7 +17,7 @@
                     <div class="info mt-4">
                         <i class="icofont-google-map"></i>
                         <h4>Location:</h4>
-                        <p>A108 Adam Street, New York, NY 535022</p>
+                        <p>Congkrong Barat, Taman, Grujugan, Kabupaten Bondowoso, Jawa Timur 68261</p>
                     </div>
                     <div class="row">
                         <div class="col-lg-6 mt-4">
@@ -31,7 +31,7 @@
                             <div class="info w-100 mt-4">
                                 <i class="icofont-phone"></i>
                                 <h4>Call:</h4>
-                                <p>+1 5589 55488 55s</p>
+                                <p>(0332) 431110</p>
                             </div>
                         </div>
                     </div>

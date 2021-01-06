@@ -154,7 +154,7 @@
                         Kabupaten Bondowoso<br>
                         Jawa Timur 68261, Indonesia <br><br>
                             <strong>Phone:</strong> (0332) 431110<br>
-                            <strong>Email:</strong> info@example.com<br>
+                            <strong>Email:</strong> smkn1_grujugan@yahoo.com<br>
                         </p>
                     </div>
 
@@ -164,7 +164,7 @@
                             <li><i class="bx bx-chevron-right"></i> <a href="/">Home</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Profil</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Paket Keahlian</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Kontak</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/kontak">Kontak</a></li>
                             <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li> -->
                         </ul>
                     </div>

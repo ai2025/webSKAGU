@@ -12,7 +12,7 @@
                     </div>
                     <div class="entry-content-page">
                             <div class="table-responsive" style="width: 1500px;">
-                                <table style="width:70%; " class="easy-table easy-table-default" border="0">
+                                <table style="width:70%;margin-top: 80px; " class="easy-table easy-table-default" border="0">
                                     <thead>
                                         <tr>
                                             <th>No.</th>

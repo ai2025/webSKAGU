@@ -7,8 +7,8 @@
     padding-top: 150px;
 ">
         <div class="container">
-        <h2 style = "padding-left :425px; margin-top:-60; margin-bottom :80px;">Jumlah Peserta Didik</h2>
-        <h2 style = "padding-left :415.5px; margin-top:-75; margin-bottom :50px;">SMK Negeri 1 Grujugan</h2>
+        <h2 style = "padding-left :415px; margin-top:-60; margin-bottom :80px; padding-top: 90px;">Jumlah Peserta Didik</h2>
+        <h2 style = "padding-left :400px; margin-top:-75; margin-bottom :50px;">SMK Negeri 1 Grujugan</h2>
 
             <div class="row counters">
                 

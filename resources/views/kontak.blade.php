@@ -2,21 +2,21 @@
 
 @section('content')
 <!-- ======= Contact Section ======= -->
-<section id="kontak" class="kontak">
+<section id="kontak" class="kontak" style="padding-bottom: 80px;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4" data-aos="fade-right">
                     <div class="section-title">
-                        <h2 style="top: 90px;">Kontak</h2>
-                        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                        <h2 style="top: 90px; ">Kontak</h2>
+                        <p style="padding-top: 90px;">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
                     </div>
                 </div>
 
-                <div class="col-lg-8" data-aos="fade-up" data-aos-delay="100">
-                    <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+                <div class="col-lg-8" data-aos="fade-up" data-aos-delay="100" style="top: 90px;">
+                    <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.156461638868!2d113.79144141432856!3d-7.98277258180706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd6c25faf2a77d5%3A0xeb3bbc29cec7fcfb!2sSMK%20Negeri%201%20Grujugan!5e0!3m2!1sid!2sid!4v1609817210723!5m2!1sid!2sid" frameborder="0" allowfullscreen></iframe>
                     <div class="info mt-4">
                         <i class="icofont-google-map"></i>
-                        <h4>Location:</h4>
+                        <h4>Lokasi:</h4>
                         <p>Congkrong Barat, Taman, Grujugan, Kabupaten Bondowoso, Jawa Timur 68261</p>
                     </div>
                     <div class="row">
@@ -24,7 +24,7 @@
                             <div class="info">
                                 <i class="icofont-envelope"></i>
                                 <h4>Email:</h4>
-                                <p>info@example.com</p>
+                                <p>smkn1_grujugan@yahoo.com</p>
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -35,8 +35,9 @@
                             </div>
                         </div>
                     </div>
+                
 
-                    <form action="forms/contact.php" method="post" role="form" class="php-email-form mt-4">
+                    <!-- <form action="forms/contact.php" method="post" role="form" class="php-email-form mt-4">
                         <div class="form-row">
                             <div class="col-md-6 form-group">
                                 <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
@@ -61,7 +62,7 @@
                             <div class="sent-message">Your message has been sent. Thank you!</div>
                         </div>
                         <div class="text-center"><button type="submit">Send Message</button></div>
-                    </form>
+                    </form> -->
                 </div>
             </div>
 
